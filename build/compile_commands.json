@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/harsh/cpp-boilerplate-v2/build/app",
+  "command": "/usr/bin/c++   -I/home/harsh/cpp-boilerplate-v2/include  -g   -std=gnu++14 -o CMakeFiles/shell-app.dir/AnalogSensor.cpp.o -c /home/harsh/cpp-boilerplate-v2/app/AnalogSensor.cpp",
+  "file": "/home/harsh/cpp-boilerplate-v2/app/AnalogSensor.cpp"
+},
+{
+  "directory": "/home/harsh/cpp-boilerplate-v2/build/app",
+  "command": "/usr/bin/c++   -I/home/harsh/cpp-boilerplate-v2/include  -g   -std=gnu++14 -o CMakeFiles/shell-app.dir/main.cpp.o -c /home/harsh/cpp-boilerplate-v2/app/main.cpp",
+  "file": "/home/harsh/cpp-boilerplate-v2/app/main.cpp"
+}
+]
