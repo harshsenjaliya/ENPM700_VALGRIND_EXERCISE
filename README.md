@@ -43,5 +43,4 @@ The reason is that Valgrind operates at the binary level, analyzing the executab
 
 ### Summary
 
-In summary, linking statically does not prevent Valgrind from detecting memory-related bugs. Valgrind analyzes the complete binary, ensuring that any issues present in the code or linked libraries are reported during execution.
-
+In summary, linking statically does not prevent Valgrind from detecting memory-related bugs. Valgrind analyzes the complete binary, ensuring that any issues present in the code or linked libraries are reported during execution
